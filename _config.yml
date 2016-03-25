@@ -1,0 +1,28 @@
+name: Indigenous Physicians Association of Canada
+favicon: null
+layout_spectrum: 0.8799758201930672
+typography_spectrum: 0.07851365651004016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7137481011450291
+  lightness: 0.8460662709549069
+  saturation: 0.5513651932124048
+  rhythmicContrast: 0.2731062322854996
+purpose: []
