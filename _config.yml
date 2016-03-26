@@ -1,6 +1,6 @@
 name: Indigenous Physicians Association of Canada
 favicon: null
-layout_spectrum: 0.01794
+layout_spectrum: 0.88397
 typography_spectrum: 0.49641
 title: Indigenous Physicians Association of Canada
 cta:
@@ -22,8 +22,8 @@ color:
     - '#00b0bf'
     - '#bcad86'
     - '#00757f'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
